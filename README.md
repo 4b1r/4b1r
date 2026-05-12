@@ -15,7 +15,7 @@ Competitive Programmer | C++ | Problem Solver
 
 ### 🛠 Languages and Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,linux,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,vscode,sublime" />
 </p>
 
 ---
