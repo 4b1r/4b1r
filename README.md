@@ -1,15 +1,7 @@
-<h1 align="center">Hi 👋, I'm Abir Islam</h1>
 
-<p align="center">
-Competitive Programmer | C++ | Problem Solver
-</p>
-
----
 
 ## 🚀 About Me
-- 🌱 Learning Algorithms & Data Structures
-- 💻 Solving Codeforces Problems
-- ⚡ Interested in CP and ICPC
+I'm currently involved in competitive programming, learning more algorithms!
 
 ---
 
