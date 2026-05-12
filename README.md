@@ -30,7 +30,7 @@ Competitive Programmer | C++ | Problem Solver
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://codeforces.com/profile/sargent">
+<a href="https://codeforces.com/profile/Sargent">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" width="48" height="48"/>
 </a>
 
@@ -38,7 +38,7 @@ Competitive Programmer | C++ | Problem Solver
   <img src="https://img.icons8.com/color/48/codechef.png"/>
 </a>
 
-<a href="https://leetcode.com/4birIslam/">
+<a href="https://leetcode.com/u/4birIslam/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="48"/>
 </a>
 
