@@ -6,26 +6,50 @@ Competitive Programmer | C++ | Problem Solver
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 - 🌱 Learning Algorithms & Data Structures
-- 💻 Solving Codeforces problems
+- 💻 Solving Codeforces Problems
 - ⚡ Interested in CP and ICPC
 
 ---
 
-### 🛠 Languages and Tools
-<p>
+## 🛠 Languages and Tools
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,vscode,sublime" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🌐 Social
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+
+
+<a href="https://www.linkedin.com/in/4b1r/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://codeforces.com/profile/sargent">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" width="48" height="48"/>
+</a>
+
+<a href="https://www.codechef.com/users/sargent">
+  <img src="https://img.icons8.com/color/48/codechef.png"/>
+</a>
+
+<a href="https://leetcode.com/4birIslam/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="48"/>
+</a>
+
 </p>
 
+---
+
+## 📊 Codeforces Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sargent" />
 </p>
+
+---
